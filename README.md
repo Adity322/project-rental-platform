@@ -11,7 +11,7 @@ Designed to **digitalize and modernize rental operations** for both tenants and 
 ---
 
 ## ✨ Features
-
+ 
 ### 👑 For Property Owners
 - 🏠 Create and manage properties  
 - 🔧 View and update maintenance requests in real-time  
