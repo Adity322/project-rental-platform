@@ -5,7 +5,7 @@ Designed to **digitalize and modernize rental operations** for both tenants and 
 
 🔗 **Live Links**
 - Backend: https://propert-rental-platform.onrender.com
-- Frontend: https://project-rental-platform.vercel.app  
+- Frontend: https://project-rental-platform.vercel.app   
 - 🎥 Video Walkthrough:https://drive.google.com/file/d/1L951DOoBIeoniXPzKOPTy7jtsHGUZjC6/view?usp=share_link
 
 ---
